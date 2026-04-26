@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3670A0&height=250&section=header&text=Привет,%20я%20Александр!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Enthusiast%20%7C%20DevOps%20%26%20Backend&descSize=20&descAlignY=60" width="100%" alt="Header" />
-</p>
 
 
 ### 🛠 Мой стек технологий
