@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Привет,+я+Александр!;Cybersecurity+Enthusiast;DevOps+%26+Backend+Developer" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Привет,+я+Александр!;Cybersecurity+Enthusiast;DevOps+%26+Backend+Developer" alt="Typing SVG" />
+</p>
 
----
 
 ### 🛠 Мой стек технологий
 
