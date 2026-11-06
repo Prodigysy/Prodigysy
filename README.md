@@ -1,52 +1,97 @@
-# 👋 Привет, я Овсянников Александр
+# Hey, I'm **Alexander Ovsyannikov** 👋
 
-**Студент 5-го курса СНИУ им. академика С.П. Королёва (Самарский университет)**
-Направление «Информационная безопасность автоматизированных систем»
+<!-- Animated tagline -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=640&lines=Final-year+Cybersecurity+Student;Breaking+things+so+they+can't+be+broken;Python+%C2%B7+C%23+%C2%B7+Linux+%C2%B7+DevOps;Hardening+systems+one+server+at+a+time)](https://github.com/Prodigysy)
 
-🔧 Настройка Linux и средств защиты · 🌐 сети и мониторинг · 🐍 Python · ☕ C# · 📊 SQL
-
----
-
-## 🛠 Стек и инструменты
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+🎓 5th-year student at **Samara National Research University** (S.P. Korolyov) — *Information Security of Automated Systems*
+📍 Samara, Russia · 🌐 Working in English · Open to **internships & entry-level security/DevOps roles**
 
 ---
 
-## 📌 Избранные проекты
+## 🧠 About me
 
-| Проект | Что внутри |
-|---|---|
-| [**lab4-devops**](https://github.com/Prodigysy/lab4-devops) | Infrastructure as Code: развертывание HTTP-сервиса через **Ansible**, systemd-юнит, **healthcheck** на bash |
-| [**cripto**](https://github.com/Prodigysy/cripto) | Блочный шифр **«Решётка Кардано»** на Python: CLI (gen / encrypt / decrypt), строгая валидация ключей, побайтовый round-trip |
-| [**enterprise-development**](https://github.com/Prodigysy/enterprise-development) | Командный учебный проект: REST API на **ASP.NET Core**, MongoDB, RabbitMQ, gRPC, CI/CD |
-
----
-
-## 📚 Изучаю сейчас
-
-- Обеспечение защищенности Linux-инфраструктуры: от Fail2ban до IDS/IPS
-- Инфраструктура и мониторинг: Ansible, systemd, healthcheck
-- Криптографические методы защиты информации
+- 🔒 I break systems in a lab so they can't be broken in production — Linux hardening, network security, cryptography
+- 🤖 I automate everything twice: once for practice, once because autoscaling is fun
+- 📡 Trained to read logs like bedtime stories — Fail2ban, Wireshark, IDS/IPS debates included
+- 💬 Ask me about **Python, C#, Ansible or why `iptables` > `ufw`**
 
 ---
 
-## 📫 Связь
+## ⚙️ Tech Stack
 
-✉️ miracle.owsyannikov@yandex.ru
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cs,linux,bash,git,githubactions,ansible,docker,nginx,windows&theme=dark" />
+</a>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20mongodb%20concepts-336791?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/security-Wireshark%20%7C%20Fail2ban%20%7C%20IDS%2FIPS-ff4d4d?style=flat-square" alt="Security" />
+</p>
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prodigysy&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prodigysy&layout=compact&hide_border=true)
+## 🚀 Featured Projects
+
+<table>
+<tr>
+  <td width="50%" valign="top">
+
+### 🗝️ [cripto](https://github.com/Prodigysy/cripto)
+Block cipher **«Cardano Grille»** implemented in Python from scratch: full CLI (`gen` / `encrypt` / `decrypt`), strict key validation, byte-exact round-trip tests.
+`python` `cryptography` `cli`
+
+  </td>
+  <td width="50%" valign="top">
+
+### ⚙️ [lab4-devops](https://github.com/Prodigysy/lab4-devops)
+Infrastructure-as-Code deployment of an HTTP service with **Ansible**: playbook, systemd unit, bash healthcheck. One command → working server.
+`ansible` `systemd` `linux` `bash`
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+### 🏢 [enterprise-development](https://github.com/Prodigysy/enterprise-development)
+Team course project: production-style REST API — **ASP.NET Core** + MongoDB + RabbitMQ + gRPC, wired with **CI/CD** via GitHub Actions.
+`csharp` `dotnet` `grpc` `cicd`
+
+  </td>
+  <td width="50%" valign="top">
+
+### 📱 [ProPhoneService](https://github.com/Prodigysy/ProPhoneService)
+Feature work on a C# team project — modern application architecture, service layer and codebase practices.
+`csharp` `teamwork`
+
+  </td>
+</tr>
+</table>
+
+---
+
+## 📚 Currently learning
+
+- 🛡 **Linux hardening in depth** — Fail2ban → IDS/IPS → secure network architecture
+- 🐍 Advanced **cryptography** — crypto methods of information protection
+- 🧩 Expanding infrastructure & monitoring skills: Ansible, systemd, healthchecks
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prodigysy&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prodigysy&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Prodigysy&hide_border=true&theme=tokyonight" alt="GitHub streak" height="160" />
+</p>
+
+---
+
+## 📫 Reach me
+
+<p align="left">
+  <a href="mailto:miracle.owsyannikov@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<!-- 💡 Optional: add the GitHub Profile-Snake animation (needs one GitHub Action)
+     https://github.com/Platane/snk  → commit `snake.svg` and paste the img here -->
