@@ -91,6 +91,7 @@ Feature work on a C# team project — modern application architecture, service l
 
 <p align="left">
   <a href="mailto:miracle.owsyannikov@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/PhProdigy"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ## 🐍 Contribution Snake
