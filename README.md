@@ -80,8 +80,8 @@ Feature work on a C# team project — modern application architecture, service l
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prodigysy&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prodigysy&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Prodigysy&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Prodigysy&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="160" />
   <img src="https://streak-stats.demolab.com?user=Prodigysy&hide_border=true&theme=tokyonight" alt="GitHub streak" height="160" />
 </p>
 
